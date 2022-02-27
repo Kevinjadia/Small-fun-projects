@@ -1,5 +1,5 @@
 # Small-fun-projects
-Here you'll find small fun projects done by me mostly in python
+Here you'll find small fun projects done by me in python
 
 ##  Snakes and ladders game [(Snake_and_ladder.ipynb)](https://github.com/Kevinjadia/Small-fun-projects/blob/main/Snake_and_ladder.ipynb)
 >This is non-GUI based 2 player snakes and ladders game. To play this game you need to keep the given board as a reference to keep track of the position of the players!
